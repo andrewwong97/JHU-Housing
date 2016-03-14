@@ -25,3 +25,4 @@ while (True):
 	call()
 	print "Current time is: " + time.strftime("%H:%M:%S")
 	time.sleep(30)
+	
